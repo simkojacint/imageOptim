@@ -1,0 +1,12 @@
+{
+  "name": "simkojacint/imageOptim",
+  "description": "Image optimizer",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+	{
+	  "name": "Jacint Simko",
+	  "email": "simkojacint@gmail.com"
+	}
+  ]
+}
